@@ -1,0 +1,43 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_lucky_gold_piglin_coin",
+  "criteria": {
+    "lucky_gold_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:lucky_gold_piglin_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_gold_blaze_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_gold_ghast_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_gold_magma_cube_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_gold_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:lucky_gold_piglin_coin"
+    },
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_gold_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "lucky_gold_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

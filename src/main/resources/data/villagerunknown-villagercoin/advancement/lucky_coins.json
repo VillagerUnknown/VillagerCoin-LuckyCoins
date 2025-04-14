@@ -1,0 +1,125 @@
+{
+  "parent": "villagerunknown-villagercoin:root",
+  "criteria": {
+    "pickup_lucky_copper_cat_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_copper_chicken_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_copper_creeper_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_copper_iron_golem_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_copper_sheep_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_copper_wolf_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_copper_zombie_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_iron_cat_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_iron_chicken_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_iron_golem_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_iron_sheep_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_iron_silverfish_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_iron_vex_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_gold_blaze_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_gold_ghast_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_gold_magma_cube_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_gold_piglin_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_gold_wither_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_emerald_creeper_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_emerald_iron_golem_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_emerald_pillager_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_emerald_slime_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_netherite_ender_dragon_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_netherite_enderman_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_netherite_wither_coin": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "translate": "advancements.lucky_coins.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:lucky_emerald_creeper_coin"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_coins.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "pickup_lucky_copper_cat_coin",
+      "pickup_lucky_copper_chicken_coin",
+      "pickup_lucky_copper_creeper_coin",
+      "pickup_lucky_copper_iron_golem_coin",
+      "pickup_lucky_copper_sheep_coin",
+      "pickup_lucky_copper_wolf_coin",
+      "pickup_lucky_copper_zombie_coin",
+      "pickup_lucky_iron_cat_coin",
+      "pickup_lucky_iron_chicken_coin",
+      "pickup_lucky_iron_golem_coin",
+      "pickup_lucky_iron_sheep_coin",
+      "pickup_lucky_iron_silverfish_coin",
+      "pickup_lucky_iron_vex_coin",
+      "pickup_lucky_gold_blaze_coin",
+      "pickup_lucky_gold_ghast_coin",
+      "pickup_lucky_gold_piglin_coin",
+      "pickup_lucky_gold_magma_cube_coin",
+      "pickup_lucky_gold_wither_coin",
+      "pickup_lucky_emerald_creeper_coin",
+      "pickup_lucky_emerald_iron_golem_coin",
+      "pickup_lucky_emerald_pillager_coin",
+      "pickup_lucky_emerald_slime_coin",
+      "pickup_lucky_netherite_ender_dragon_coin",
+      "pickup_lucky_netherite_enderman_coin",
+      "pickup_lucky_netherite_wither_coin"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

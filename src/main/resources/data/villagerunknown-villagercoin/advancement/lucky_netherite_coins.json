@@ -1,0 +1,34 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_lucky_netherite_ender_dragon_coin",
+  "criteria": {
+    "lucky_netherite_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:lucky_netherite_ender_dragon_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:lucky_netherite_ender_dragon_coin"
+    },
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "lucky_netherite_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

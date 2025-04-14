@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "villagerunknown-luckycoins",
+  "version": "${version}",
+  "name": "VillagerUnknown's Lucky Coins for Villager Coin",
+  "description": "Adds a variety of lucky Copper, Iron, Gold, Emerald, and Netherite coins, that apply a beneficial status effect when in a player's inventory, to Villager Coin.",
+  "authors": ["VillagerUnknown"],
+  "contact": {
+    "homepage":"https://github.com/VillagerUnknown",
+    "sources":"https://github.com/VillagerUnknown/VillagerCoin-LuckyCoins",
+    "issues":"https://github.com/VillagerUnknown/VillagerCoin-LuckyCoins/issues"
+  },
+  "license": "CC-BY-4.0",
+  "icon": "assets/luckycoins/villagerunknown-lucky-coins.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.villagerunknown.luckycoins.client.LuckycoinsClient"
+    ],
+    "main": [
+      "me.villagerunknown.luckycoins.Luckycoins"
+    ],
+    "modmenu": [
+      "me.villagerunknown.luckycoins.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "luckycoins.mixins.json",
+    {
+      "config": "luckycoins.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "villagerunknown-platform": ">=1.2.0",
+    "villagerunknown-villagercoin": ">=1.0.1"
+  }
+}

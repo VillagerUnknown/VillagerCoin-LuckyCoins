@@ -1,0 +1,36 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_lucky_iron_chicken_coin",
+  "criteria": {
+    "lucky_iron_cat_coin": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:lucky_iron_cat_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "translate": "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:lucky_iron_cat_coin"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title"
+    }
+  },
+  "requirements": [
+    [
+      "lucky_iron_cat_coin"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

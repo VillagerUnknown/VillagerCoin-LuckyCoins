@@ -1,0 +1,49 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_lucky_copper_zombie_coin",
+  "criteria": {
+    "lucky_copper_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_cat_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_chicken_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_sheep_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_iron_golem_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_zombie_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_wolf_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_copper_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:lucky_copper_iron_golem_coin"
+    },
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_copper_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "lucky_copper_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

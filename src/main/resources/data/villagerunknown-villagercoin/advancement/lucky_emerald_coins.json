@@ -1,0 +1,40 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_lucky_emerald_slime_coin",
+  "criteria": {
+    "lucky_emerald_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:lucky_emerald_creeper_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_emerald_slime_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_emerald_iron_golem_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:lucky_emerald_iron_golem_coin"
+    },
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "lucky_emerald_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
