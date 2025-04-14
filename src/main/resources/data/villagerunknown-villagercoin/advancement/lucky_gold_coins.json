@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:pickup_lucky_gold_piglin_coin",
+  "parent": "villagerunknown-villagercoin:pickup_lucky_gold_blaze_coin",
   "criteria": {
     "lucky_gold_coins": {
       "conditions": {

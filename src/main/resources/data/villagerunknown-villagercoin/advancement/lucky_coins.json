@@ -81,11 +81,11 @@
     "announce_to_chat": false,
     "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
     "description": {
-      "translate": "advancements.lucky_coins.root.description"
+      "translate": "advancements.villagerunknown-villagercoin.lucky_coins.root.description"
     },
     "icon": {
       "count": 1,
-      "id": "villagerunknown-villagercoin:lucky_emerald_creeper_coin"
+      "id": "villagerunknown-villagercoin:lucky_copper_cat_coin"
     },
     "show_toast": false,
     "title": {

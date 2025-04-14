@@ -32,79 +32,79 @@
 
   "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Lucky Netherite Ender Dragon Coin",
 
-  "advancements.villagerunknown-villagercoin.lucky_coins.title": "Lucky Coins",
-  "advancements.villagerunknown-villagercoin.lucky_coins.description": "Collected by Players everywhere",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Lucky Coins",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Collected by Players everywhere",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "It Beckons You",
   "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Acquire a Lucky Copper Cat Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "It's My Lucky Chicken",
   "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Acquire a Lucky Copper Chicken Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "It Keeps You Warm",
   "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Acquire a Lucky Copper Sheep Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "A Small Piece Of Strength",
   "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Acquire a Lucky Copper Iron Golem Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "A Player's Best Friend",
   "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Acquire a Lucky Copper Wolf Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "It Lights Up The Night",
   "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Acquire a Lucky Copper Zombie Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "We Go Together",
   "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Acquire a Lucky Iron Cat Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "We Fall Together",
   "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Acquire a Lucky Iron Chicken Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Worth The Money",
   "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Acquire a Lucky Iron Golem Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "It's So Fluffy",
   "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Acquire a Lucky Iron Sheep Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "We're Friends Now",
   "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Acquire a Lucky Iron Vex Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Just Blazing Around",
   "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Acquire a Lucky Gold Blaze Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "A Member Of The Club",
   "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Acquire a Lucky Gold Piglin Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Like A Big Balloon",
   "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Acquire a Lucky Gold Ghast Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Jumping Through The Fire",
   "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Acquire a Lucky Gold Magma Cube Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "They Won't See Me Coming",
   "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Acquire a Lucky Emerald Creeper Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Tough And Squishy",
   "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Acquire a Lucky Emerald Slime Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Paid To Protect",
   "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Acquire a Lucky Emerald Iron Golem Coin",
 
-  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "The Legend Is True",
   "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Acquire a Lucky Netherite Ender Dragon Coin",
 
-  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Lucky Pennies",
   "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Acquire all of the Lucky Copper Coins",
 
-  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Unbothered By The Weight",
   "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Acquire all of the Lucky Iron Coins",
 
-  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "That's One Lucky Pig",
   "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Acquire all of the Lucky Gold Coins",
 
-  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "The Lucky Generation",
   "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Acquire all of the Lucky Emerald Coins",
 
-  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "An Army Of One",
   "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Acquire all of the Lucky Netherite Coins"
 
 }
