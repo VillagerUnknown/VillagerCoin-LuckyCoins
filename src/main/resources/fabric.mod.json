@@ -3,7 +3,7 @@
   "id": "villagerunknown-luckycoins",
   "version": "${version}",
   "name": "VillagerUnknown's Lucky Coins for Villager Coin",
-  "description": "Adds a variety of lucky Copper, Iron, Gold, Emerald, and Netherite coins, that apply a beneficial status effect when in a player's inventory, to Villager Coin.",
+  "description": "Adds a variety of lucky Copper, Iron, Gold, Emerald, and Netherite coins to Villager Coin that apply beneficial status effects when in a player's inventory.",
   "authors": ["VillagerUnknown"],
   "contact": {
     "homepage":"https://github.com/VillagerUnknown",
