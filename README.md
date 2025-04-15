@@ -1,6 +1,8 @@
 # VillagerUnknown's Lucky Coins for Villager Coin
 
-Adds a variety of lucky Copper, Iron, Gold, Emerald, and Netherite coins, that apply beneficial status effects when in a player's inventory, to Villager Coin.
+_This is an addon mod for Villager Coin._
+
+Adds a variety of lucky Copper, Iron, Gold, Emerald, and Netherite coins to Villager Coin that apply beneficial status effects when in a player's inventory.
 
 Lucky coins, like collectable coins, can be traded with other players in your world, put on display in your base, or converted to the common Villager Coins of equal value through the crafting table for trading with Villagers.
 
