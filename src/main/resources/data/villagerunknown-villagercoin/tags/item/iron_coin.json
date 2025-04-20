@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:lucky_iron_cat_coin",
+    "villagerunknown-villagercoin:lucky_iron_chicken_coin",
+    "villagerunknown-villagercoin:lucky_iron_golem_coin",
+    "villagerunknown-villagercoin:lucky_iron_sheep_coin",
+    "villagerunknown-villagercoin:lucky_iron_vex_coin"
+  ]
+}
