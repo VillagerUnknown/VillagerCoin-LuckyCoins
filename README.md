@@ -28,6 +28,42 @@ Each type of coin has a limited number in circulation.
 - Emerald: 2 of each
 - Netherite: 1 of each
 
+## Included Lucky Coins
+
+### Copper Coins
+
+- Copper Cat - Kill Cats or search chests in Village Houses. Applies Speed.
+- Copper Chicken - Kill Chickens or search chests in the Village Fletchers. Applies Slow Falling.
+- Copper Sheep - Kill Sheep or search chests in the Village Sherphards. Applies Absorption.
+- Copper Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts. Applies Resistance.
+- Copper Wolf - Kill Wolves or search chests in Trial Chambers rewards. applies Strength and Speed.
+- Copper Zombie - Kill Zombies or search chests in Ancient Cities. Applies Night Vision.
+
+### Iron Coins
+
+- Iron Cat - Kill Cats or search chests in Village Houses. Applies Speed and Night Vision.
+- Iron Chicken - Kill Chickens or search chests in the Village Fletchers. Applies Slow Falling.
+- Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts. Applies Resistance and Strength.
+- Iron Sheep - Kill Sheep or search chests in the Village Sherphards. Applies Absorption and Speed.
+- Iron Vex - Kill Vexes or search chests in Woodland Mansions. Applies Levitation.
+
+### Gold Coins
+
+- Gold Blaze - Kill Blazes or search chests in Nether Fortresses. Applies Fire Resistance, Strength, and Slow Falling.
+- Gold Piglin - Kill Piglins or Piglin Brutes, or search chests in Bastion treasure rooms. Applies Strength, Fire Resistance, and Resistance.
+- Gold Ghast - Kill Ghasts. Applies Slow Falling, Fire Resistance, and Absorption.
+- Gold Magma Cube - Kill Magma Cubes. Applies Fire Resistance, Absorption, and Jump Boost.
+
+### Emerald Coins
+
+- Emerald Creeper - Kill creepers, brush suspicious sand or gravel in deserts, or search chests in Jungle Temples and Desert Temples. Applies Invisibility, Speed, and Night Vision.
+- Emerald Slime - Kill Slimes. Applies Jump Boost, Absorption, and Health Boost.
+- Emerald Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts. Applies Resistance, Strength, Hero of the Village, and Health Boost.
+
+### Netherite Coins
+
+- Netherite Ender Dragon - Kill the Ender Dragon. Applies Fire Resistance, Strength, Health Boost, and Jump Boost.
+
 ## Support
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-LuckyCoins/issues
