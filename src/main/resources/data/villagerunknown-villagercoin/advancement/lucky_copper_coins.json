@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:pickup_lucky_copper_zombie_coin",
+  "parent": "villagerunknown-villagercoin:pickup_lucky_copper_heart_coin",
   "criteria": {
     "lucky_copper_coins": {
       "conditions": {
@@ -21,6 +21,12 @@
           },
           {
             "items": "villagerunknown-villagercoin:lucky_copper_wolf_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_dolphin_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_heart_coin"
           }
         ]
       },

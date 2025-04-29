@@ -19,6 +19,12 @@
     "pickup_lucky_copper_wolf_coin": {
       "trigger": "minecraft:inventory_changed"
     },
+    "pickup_lucky_copper_dolphin_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_copper_heart_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
     "pickup_lucky_copper_zombie_coin": {
       "trigger": "minecraft:inventory_changed"
     },
@@ -50,6 +56,9 @@
       "trigger": "minecraft:inventory_changed"
     },
     "pickup_lucky_gold_piglin_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_lucky_gold_turtle_coin": {
       "trigger": "minecraft:inventory_changed"
     },
     "pickup_lucky_gold_wither_coin": {
@@ -101,6 +110,8 @@
       "pickup_lucky_copper_sheep_coin",
       "pickup_lucky_copper_wolf_coin",
       "pickup_lucky_copper_zombie_coin",
+      "pickup_lucky_copper_dolphin_coin",
+      "pickup_lucky_copper_heart_coin",
       "pickup_lucky_iron_cat_coin",
       "pickup_lucky_iron_chicken_coin",
       "pickup_lucky_iron_golem_coin",
@@ -112,6 +123,7 @@
       "pickup_lucky_gold_piglin_coin",
       "pickup_lucky_gold_magma_cube_coin",
       "pickup_lucky_gold_wither_coin",
+      "pickup_lucky_gold_turtle_coin",
       "pickup_lucky_emerald_creeper_coin",
       "pickup_lucky_emerald_iron_golem_coin",
       "pickup_lucky_emerald_pillager_coin",

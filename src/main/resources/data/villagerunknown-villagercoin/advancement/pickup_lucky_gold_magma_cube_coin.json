@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:lucky_coins",
+  "parent": "villagerunknown-villagercoin:pickup_lucky_gold_turtle_coin",
   "criteria": {
     "lucky_gold_magma_cube_coin": {
       "conditions": {
