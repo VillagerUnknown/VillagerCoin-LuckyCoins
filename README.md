@@ -34,7 +34,7 @@ Each type of coin has a limited number in circulation.
 
 - Copper Cat - Kill Cats or search chests in Village Houses. Applies Speed.
 - Copper Chicken - Kill Chickens or search chests in the Village Fletchers. Applies Slow Falling.
-- Copper Sheep - Kill Sheep or search chests in the Village Sherphards. Applies Absorption.
+- Copper Sheep - Kill Sheep or search chests in the Village Shepherds. Applies Absorption.
 - Copper Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts. Applies Resistance.
 - Copper Wolf - Kill Wolves or search chests in Trial Chambers rewards. applies Strength and Speed.
 - Copper Zombie - Kill Zombies or search chests in Ancient Cities. Applies Night Vision.
@@ -44,7 +44,7 @@ Each type of coin has a limited number in circulation.
 - Iron Cat - Kill Cats or search chests in Village Houses. Applies Speed and Night Vision.
 - Iron Chicken - Kill Chickens or search chests in the Village Fletchers. Applies Slow Falling.
 - Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts. Applies Resistance and Strength.
-- Iron Sheep - Kill Sheep or search chests in the Village Sherphards. Applies Absorption and Speed.
+- Iron Sheep - Kill Sheep or search chests in the Village Shepherds. Applies Absorption and Speed.
 - Iron Vex - Kill Vexes or search chests in Woodland Mansions. Applies Levitation.
 
 ### Gold Coins
