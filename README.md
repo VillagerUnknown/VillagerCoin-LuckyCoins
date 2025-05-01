@@ -38,6 +38,8 @@ Each type of coin has a limited number in circulation.
 - Copper Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts. Applies Resistance.
 - Copper Wolf - Kill Wolves or search chests in Trial Chambers rewards. applies Strength and Speed.
 - Copper Zombie - Kill Zombies or search chests in Ancient Cities. Applies Night Vision.
+- Copper Dolphin - Kill Dolphins, Fish for Treasure, or search chests in Underwater Ruins. Applies Dolphin's Grace.
+- Copper Heart - Kill Players or receive a Hero of the Village Gift from Clerics or Farmers.
 
 ### Iron Coins
 
@@ -53,6 +55,7 @@ Each type of coin has a limited number in circulation.
 - Gold Piglin - Kill Piglins or Piglin Brutes, or search chests in Bastion treasure rooms. Applies Strength, Fire Resistance, and Resistance.
 - Gold Ghast - Kill Ghasts. Applies Slow Falling, Fire Resistance, and Absorption.
 - Gold Magma Cube - Kill Magma Cubes. Applies Fire Resistance, Absorption, and Jump Boost.
+- Gold Turtle - Kill Turtles, Fish for Treasure, or search chests in Underwater Ruins. Applies Water Breathing, Resistance, and Absorption.
 
 ### Emerald Coins
 

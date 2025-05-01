@@ -1,0 +1,36 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_lucky_copper_zombie_coin",
+  "criteria": {
+    "lucky_copper_dolphin_coin": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:lucky_copper_dolphin_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "translate": "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:lucky_copper_dolphin_coin"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title"
+    }
+  },
+  "requirements": [
+    [
+      "lucky_copper_dolphin_coin"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

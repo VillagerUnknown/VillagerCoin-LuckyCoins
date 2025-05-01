@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3]
+
+### Added
+
+- Added Lucky Copper Dolphin Coin - Kill Dolphins, Fish for Treasure, or search chests in Underwater Ruins. Applies Dolphin's Grace.
+- Added Lucky Copper Heart Coin - Kill Players or receive a Hero of the Village Gift from Clerics or Farmers.
+- Added Lucky Gold Turtle Coin - Kill Turtles, Fish for Treasure, or search chests in Underwater Ruins. Applies Water Breathing, Resistance, and Absorption.
+
+### Changed
+
+- Changed supported Villager Coin version to 1.0.6
+- Changed mixin filenames to avoid potential conflicts.
+
+## [1.0.2]
+
+### Changed
+
+- Changed to comply with updates from Villager Coin.
+
 ## [1.0.1]
 
 ### Changed
