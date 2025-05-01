@@ -10,6 +10,10 @@ All notable changes to this project will be documented in this file.
 - Added Lucky Copper Heart Coin - Kill Players or receive a Hero of the Village Gift from Clerics or Farmers.
 - Added Lucky Gold Turtle Coin - Kill Turtles, Fish for Treasure, or search chests in Underwater Ruins. Applies Water Breathing, Resistance, and Absorption.
 
+### Changed
+
+- Changed supported Villager Coin version to 1.0.6
+
 ## [1.0.2]
 
 ### Changed
