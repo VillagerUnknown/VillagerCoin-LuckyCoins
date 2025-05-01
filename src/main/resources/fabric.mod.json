@@ -25,9 +25,9 @@
     ]
   },
   "mixins": [
-    "luckycoins.mixins.json",
+    "villagercoin-luckycoins.mixins.json",
     {
-      "config": "luckycoins.client.mixins.json",
+      "config": "villagercoin-luckycoins.client.mixins.json",
       "environment": "client"
     }
   ],
