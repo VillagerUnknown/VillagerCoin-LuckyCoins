@@ -1,0 +1,122 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "text.autoconfig.villagerunknown-luckycoins.category.General": "通用设置",
+
+  "text.autoconfig.villagerunknown-luckycoins.option.enableTheUnknown": "启用未知功能",
+
+  "tag.item.villagerunknown-villagercoin.lucky": "幸运村民币",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "幸运铜猫币",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "幸运铜鸡币",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "幸运铜羊币",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "幸运铜铁傀儡币",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "幸运铜狼币",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "幸运铜僵尸币",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "幸运铜海豚币",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "幸运铜心形币",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "幸运铁猫币",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "幸运铁鸡币",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "幸运铁傀儡币",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "幸运铁羊币",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "幸运铁恼鬼币",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "幸运金烈焰人币",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "幸运金恶魂币",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "幸运金岩浆怪币",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "幸运金猪灵币",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "幸运金海龟币",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "幸运绿宝石苦力怕币",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "幸运绿宝石史莱姆币",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "幸运绿宝石铁傀儡币",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "幸运下界合金末影龙币",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "幸运币",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "被玩家们收集",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "它在召唤你",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "获得一个幸运铜猫币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "这是我的幸运鸡",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "获得一个幸运铜鸡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "它让你保持温暖",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "获得一个幸运铜羊币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "力量的一小部分",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "获得一个幸运铜铁傀儡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "玩家最好的朋友",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "获得一个幸运铜狼币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "它照亮黑夜",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "获得一个幸运铜僵尸币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "天生的游泳者",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "获得一个幸运铜海豚币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "把它放在心口",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "获得一个幸运铜心形币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "我们在一起",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "获得一个幸运铁猫币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "我们一起坠落",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "获得一个幸运铁鸡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "物有所值",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "获得一个幸运铁傀儡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "它真蓬松",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "获得一个幸运铁羊币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "我们现在是朋友了",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "获得一个幸运铁恼鬼币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "四处燃烧",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "获得一个幸运金烈焰人币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "俱乐部成员",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "获得一个幸运金猪灵币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "像个大气球",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "获得一个幸运金恶魂币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "在火焰中跳跃",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "获得一个幸运金岩浆怪币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "专业自由潜水员",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "获得一个幸运金海龟币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "他们看不到我来了",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "获得一个幸运绿宝石苦力怕币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "坚韧又柔软",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "获得一个幸运绿宝石史莱姆币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "受雇保护",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "获得一个幸运绿宝石铁傀儡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "传说是真的",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "获得一个幸运下界合金末影龙币",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "幸运铜币",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "收集所有幸运铜币",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "不受重量困扰",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "收集所有幸运铁币",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "那是一头幸运猪",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "收集所有幸运金币",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "幸运的一代",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "收集所有幸运绿宝石币",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "一人军团",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "收集所有幸运下界合金币"
+
+}
