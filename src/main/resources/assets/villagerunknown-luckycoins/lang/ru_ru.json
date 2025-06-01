@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Удачная медная монета с котом",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Удачная медная монета с курицей",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Удачная медная монета с овцой",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Удачная медная монета с железным големом",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Удачная медная монета с волком",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Удачная медная монета с зомби",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Удачная медная монета с дельфином",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Удачная медная монета с сердцем",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Удачная железная монета с котом",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Удачная железная монета с курицей",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Удачная железная монета с железным големом",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Удачная железная монета с овцой",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Удачная железная монета с врединой",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Удачная золотая монета с ифритом",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Удачная золотая монета с гастом",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Удачная золотая монета с лавовым кубом",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Удачная золотая монета с пиглином",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Удачная золотая монета с черепахой",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Удачная изумрудная монета с крипером",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Удачная изумрудная монета со слизнем",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Удачная изумрудная монета с железным големом",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Удачная незеритовая монета с драконом Края",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Удачные монеты",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Собираются игроками по всему миру",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "Она зовёт",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Получите удачную медную монету с котом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "Это моя удачная курица",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Получите удачную медную монету с курицей",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Греет в холод",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Получите удачную медную монету с овцой",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Кусочек силы",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Получите удачную медную монету с железным големом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "Лучший друг игрока",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Получите удачную медную монету с волком",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Свет в ночи",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Получите удачную медную монету с зомби",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Рождённый плавать",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Получите удачную медную монету с дельфином",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "Держи поближе к сердцу",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Получите удачную медную монету с сердцем",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Вместе навсегда",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Получите удачную железную монету с котом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Падаем вместе",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Получите удачную железную монету с курицей",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Стоит того",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Получите удачную железную монету с железным големом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "Такая мягкая",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Получите удачную железную монету с овцой",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Теперь мы друзья",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Получите удачную железную монету с врединой",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Просто горю",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Получите удачную золотую монету с ифритом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Член клуба",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Получите удачную золотую монету с пиглином",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Как гигантский воздушный шар",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Получите удачную золотую монету с гастом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Прыжки по огню",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Получите удачную золотую монету с лавовым кубом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Профессиональный ныряльщик",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Получите удачную золотую монету с черепахой",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "Меня не увидят",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Получите удачную изумрудную монету с крипером",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Жесткий и липкий",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Получите удачную изумрудную монету со слизнем",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Защищает за плату",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Получите удачную изумрудную монету с железным големом",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "Легенда реальна",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Получите удачную незеритовую монету с драконом Края",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Счастливые копейки",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Соберите все медные удачные монеты",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Не чувствую веса",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Соберите все железные удачные монеты",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "Этому свину везёт",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Соберите все золотые удачные монеты",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "Удачное поколение",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Соберите все изумрудные удачные монеты",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "Армия из одного",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Соберите все незеритовые удачные монеты"
+
+}

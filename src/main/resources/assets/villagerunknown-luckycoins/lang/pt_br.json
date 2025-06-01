@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Moeda da Sorte de Cobre - Gato",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Moeda da Sorte de Cobre - Galinha",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Moeda da Sorte de Cobre - Ovelha",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Moeda da Sorte de Cobre - Golem de Ferro",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Moeda da Sorte de Cobre - Lobo",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Moeda da Sorte de Cobre - Zumbi",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Moeda da Sorte de Cobre - Golfinho",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Moeda da Sorte de Cobre - Coração",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Moeda da Sorte de Ferro - Gato",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Moeda da Sorte de Ferro - Galinha",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Moeda da Sorte de Ferro - Golem de Ferro",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Moeda da Sorte de Ferro - Ovelha",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Moeda da Sorte de Ferro - Vex",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Moeda da Sorte de Ouro - Blaze",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Moeda da Sorte de Ouro - Ghast",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Moeda da Sorte de Ouro - Cubo de Magma",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Moeda da Sorte de Ouro - Piglin",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Moeda da Sorte de Ouro - Tartaruga",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Moeda da Sorte de Esmeralda - Creeper",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Moeda da Sorte de Esmeralda - Slime",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Moeda da Sorte de Esmeralda - Golem de Ferro",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Moeda da Sorte de Netherite - Dragão do Fim",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Moedas da Sorte",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Coletadas por jogadores do mundo todo",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "Ela está chamando você",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Obtenha a Moeda da Sorte de Cobre - Gato",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "É a minha Galinha da Sorte",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Obtenha a Moeda da Sorte de Cobre - Galinha",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Mantém você aquecido",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Obtenha a Moeda da Sorte de Cobre - Ovelha",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Um pequeno fragmento de força",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Obtenha a Moeda da Sorte de Cobre - Golem de Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "O melhor amigo do jogador",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Obtenha a Moeda da Sorte de Cobre - Lobo",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Ilumina a noite",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Obtenha a Moeda da Sorte de Cobre - Zumbi",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Nadador nato",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Obtenha a Moeda da Sorte de Cobre - Golfinho",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "Guarde perto do coração",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Obtenha a Moeda da Sorte de Cobre - Coração",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Vamos juntos",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Obtenha a Moeda da Sorte de Ferro - Gato",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Caímos juntos",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Obtenha a Moeda da Sorte de Ferro - Galinha",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Vale a pena",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Obtenha a Moeda da Sorte de Ferro - Golem de Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "Tão macia",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Obtenha a Moeda da Sorte de Ferro - Ovelha",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Agora somos amigos",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Obtenha a Moeda da Sorte de Ferro - Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Apenas pegando fogo",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Obtenha a Moeda da Sorte de Ouro - Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Membro do clube",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Obtenha a Moeda da Sorte de Ouro - Piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Como um balão gigante",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Obtenha a Moeda da Sorte de Ouro - Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Saltando pelo fogo",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Obtenha a Moeda da Sorte de Ouro - Cubo de Magma",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Mergulhador profissional",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Obtenha a Moeda da Sorte de Ouro - Tartaruga",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "Eles não vão me ver chegando",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Obtenha a Moeda da Sorte de Esmeralda - Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Duro e pegajoso",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Obtenha a Moeda da Sorte de Esmeralda - Slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Proteção paga",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Obtenha a Moeda da Sorte de Esmeralda - Golem de Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "A lenda é real",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Obtenha a Moeda da Sorte de Netherite - Dragão do Fim",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Moedinhas da Sorte",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Colete todas as Moedas da Sorte de Cobre",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Sem sentir o peso",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Colete todas as Moedas da Sorte de Ferro",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "Esse porco é sortudo",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Colete todas as Moedas da Sorte de Ouro",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "Geração da Sorte",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Colete todas as Moedas da Sorte de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "Um exército de um só",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Colete todas as Moedas da Sorte de Netherite"
+
+}

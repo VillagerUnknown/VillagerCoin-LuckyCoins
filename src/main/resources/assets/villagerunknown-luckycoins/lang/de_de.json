@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Kupfer Glücksmünze - Katze",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Kupfer Glücksmünze - Huhn",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Kupfer Glücksmünze - Schaf",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Kupfer Glücksmünze - Eisengolem",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Kupfer Glücksmünze - Wolf",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Kupfer Glücksmünze - Zombie",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Kupfer Glücksmünze - Delfin",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Kupfer Glücksmünze - Herz",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Eisen Glücksmünze - Katze",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Eisen Glücksmünze - Huhn",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Eisen Glücksmünze - Eisengolem",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Eisen Glücksmünze - Schaf",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Eisen Glücksmünze - Vex",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Gold Glücksmünze - Blaze",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Gold Glücksmünze - Ghast",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Gold Glücksmünze - Magmawürfel",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Gold Glücksmünze - Piglin",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Gold Glücksmünze - Schildkröte",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Smaragd Glücksmünze - Creeper",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Smaragd Glücksmünze - Schleim",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Smaragd Glücksmünze - Eisengolem",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Netherit Glücksmünze - Enderdrachen",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Glücksmünzen",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Gesammelt von Spielern auf der ganzen Welt",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "Sie ruft dich",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Erhalte eine Kupfer Glücksmünze - Katze",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "Mein Glückshuhn",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Erhalte eine Kupfer Glücksmünze - Huhn",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Hält dich warm",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Erhalte eine Kupfer Glücksmünze - Schaf",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Ein kleines Stück Stärke",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Erhalte eine Kupfer Glücksmünze - Eisengolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "Des Spielers bester Freund",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Erhalte eine Kupfer Glücksmünze - Wolf",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Erhellt die Nacht",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Erhalte eine Kupfer Glücksmünze - Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Geborener Schwimmer",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Erhalte eine Kupfer Glücksmünze - Delfin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "Nahe am Herzen tragen",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Erhalte eine Kupfer Glücksmünze - Herz",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Gemeinsam unterwegs",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Erhalte eine Eisen Glücksmünze - Katze",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Zusammen fallen",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Erhalte eine Eisen Glücksmünze - Huhn",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Es lohnt sich",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Erhalte eine Eisen Glücksmünze - Eisengolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "So weich",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Erhalte eine Eisen Glücksmünze - Schaf",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Jetzt sind wir Freunde",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Erhalte eine Eisen Glücksmünze - Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Ich brenne nur",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Erhalte eine Gold Glücksmünze - Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Mitglied des Clubs",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Erhalte eine Gold Glücksmünze - Piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Wie ein riesiger Ballon",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Erhalte eine Gold Glücksmünze - Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Hüpfen durchs Feuer",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Erhalte eine Gold Glücksmünze - Magmawürfel",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Professioneller Taucher",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Erhalte eine Gold Glücksmünze - Schildkröte",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "Sie werden mich nicht kommen sehen",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Erhalte eine Smaragd Glücksmünze - Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Hart und klebrig",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Erhalte eine Smaragd Glücksmünze - Schleim",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Bezahlter Schutz",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Erhalte eine Smaragd Glücksmünze - Eisengolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "Die Legende ist wahr",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Erhalte eine Netherit Glücksmünze - Enderdrachen",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Glücksgroschen",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Sammle alle Kupfer Glücksmünzen",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Fühlt sich federleicht an",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Sammle alle Eisen Glücksmünzen",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "Dieses Schwein hat Glück",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Sammle alle Gold Glücksmünzen",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "Die glückliche Generation",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Sammle alle Smaragd Glücksmünzen",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "Eine Ein-Mann-Armee",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Sammle alle Netherit Glücksmünzen"
+
+}

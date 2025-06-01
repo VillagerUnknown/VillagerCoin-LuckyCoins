@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "구리 행운의 동전 - 고양이",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "구리 행운의 동전 - 닭",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "구리 행운의 동전 - 양",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "구리 행운의 동전 - 철 골렘",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "구리 행운의 동전 - 늑대",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "구리 행운의 동전 - 좀비",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "구리 행운의 동전 - 돌고래",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "구리 행운의 동전 - 심장",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "철 행운의 동전 - 고양이",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "철 행운의 동전 - 닭",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "철 행운의 동전 - 철 골렘",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "철 행운의 동전 - 양",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "철 행운의 동전 - 벡스",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "금 행운의 동전 - 블레이즈",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "금 행운의 동전 - 가스트",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "금 행운의 동전 - 마그마 큐브",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "금 행운의 동전 - 피글린",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "금 행운의 동전 - 거북이",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "에메랄드 행운의 동전 - 크리퍼",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "에메랄드 행운의 동전 - 슬라임",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "에메랄드 행운의 동전 - 철 골렘",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "네더라이트 행운의 동전 - 엔더드래곤",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "행운의 동전",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "전 세계 플레이어들이 수집함",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "그것이 당신을 부르고 있습니다",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "구리 행운의 동전 - 고양이 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "이건 내 행운의 닭이야",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "구리 행운의 동전 - 닭 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "따뜻하게 유지해줍니다",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "구리 행운의 동전 - 양 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "작은 힘의 조각",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "구리 행운의 동전 - 철 골렘 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "플레이어의 가장 친한 친구",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "구리 행운의 동전 - 늑대 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "밤을 밝혀줍니다",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "구리 행운의 동전 - 좀비 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "천부적인 수영 실력자",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "구리 행운의 동전 - 돌고래 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "가슴 가까이 간직하세요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "구리 행운의 동전 - 심장 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "함께 갑시다",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "철 행운의 동전 - 고양이 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "함께 떨어진다",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "철 행운의 동전 - 닭 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "그럴만한 가치가 있어요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "철 행운의 동전 - 철 골렘 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "정말 부드러워요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "철 행운의 동전 - 양 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "이제 우리는 친구예요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "철 행운의 동전 - 벡스 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "그냥 타고 있어요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "금 행운의 동전 - 블레이즈 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "클럽 멤버",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "금 행운의 동전 - 피글린 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "거대한 풍선 같아요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "금 행운의 동전 - 가스트 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "불을 뛰어넘기",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "금 행운의 동전 - 마그마 큐브 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "프로 다이버",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "금 행운의 동전 - 거북이 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "그들은 내가 오는 걸 못 봐요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "에메랄드 행운의 동전 - 크리퍼 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "딱딱하고 끈적끈적해요",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "에메랄드 행운의 동전 - 슬라임 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "보호는 유료입니다",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "에메랄드 행운의 동전 - 철 골렘 획득",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "전설은 사실이었다",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "네더라이트 행운의 동전 - 엔더드래곤 획득",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "작은 행운의 동전",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "모든 구리 행운의 동전 수집",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "무게감이 느껴지지 않아요",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "모든 철 행운의 동전 수집",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "저 돼지는 정말 운이 좋아요",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "모든 금 행운의 동전 수집",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "행운의 세대",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "모든 에메랄드 행운의 동전 수집",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "1인 군대",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "모든 네더라이트 행운의 동전 수집"
+
+}

@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "कॉपर लकी कॉइन - बिल्ली",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "कॉपर लकी कॉइन - मुर्गी",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "कॉपर लकी कॉइन - भेड़",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "कॉपर लकी कॉइन - आयरन गोलम",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "कॉपर लकी कॉइन - भेड़िया",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "कॉपर लकी कॉइन - ज़ॉम्बी",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "कॉपर लकी कॉइन - डॉल्फ़िन",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "कॉपर लकी कॉइन - दिल",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "आयरन लकी कॉइन - बिल्ली",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "आयरन लकी कॉइन - मुर्गी",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "आयरन लकी कॉइन - आयरन गोलम",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "आयरन लकी कॉइन - भेड़",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "आयरन लकी कॉइन - वेक्स",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "गोल्ड लकी कॉइन - ब्लेज़",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "गोल्ड लकी कॉइन - घास्ट",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "गोल्ड लकी कॉइन - मैग्मा क्यूब",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "गोल्ड लकी कॉइन - पिगलिन",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "गोल्ड लकी कॉइन - कछुआ",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "एमराल्ड लकी कॉइन - क्रीपर",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "एमराल्ड लकी कॉइन - स्लाइम",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "एमराल्ड लकी कॉइन - आयरन गोलम",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "नेदराइट लकी कॉइन - एंड ड्रैगन",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "लकी कॉइन",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "दुनिया भर के खिलाड़ी इन्हें इकट्ठा करते हैं",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "ये बुला रही है",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "कॉपर लकी कॉइन - बिल्ली प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "यह मेरी लकी मुर्गी है",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "कॉपर लकी कॉइन - मुर्गी प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "गर्म बनाए रखता है",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "कॉपर लकी कॉइन - भेड़ प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "थोड़ी सी ताकत",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "कॉपर लकी कॉइन - आयरन गोलम प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "खिलाड़ी का सबसे अच्छा दोस्त",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "कॉपर लकी कॉइन - भेड़िया प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "रात में चमकता है",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "कॉपर लकी कॉइन - ज़ॉम्बी प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "प्राकृतिक तैराक",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "कॉपर लकी कॉइन - डॉल्फ़िन प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "दिल के करीब रखें",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "कॉपर लकी कॉइन - दिल प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "हम साथ चलें",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "आयरन लकी कॉइन - बिल्ली प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "साथ गिरते हैं",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "आयरन लकी कॉइन - मुर्गी प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "यह इसके लायक है",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "आयरन लकी कॉइन - आयरन गोलम प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "बहुत नरम है",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "आयरन लकी कॉइन - भेड़ प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "अब हम दोस्त हैं",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "आयरन लकी कॉइन - वेक्स प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "सिर्फ जल रहा हूँ",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "गोल्ड लकी कॉइन - ब्लेज़ प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "क्लब का सदस्य",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "गोल्ड लकी कॉइन - पिगलिन प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "एक विशाल गुब्बारे जैसा",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "गोल्ड लकी कॉइन - घास्ट प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "आग में कूदना",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "गोल्ड लकी कॉइन - मैग्मा क्यूब प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "पेशेवर गोताखोर",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "गोल्ड लकी कॉइन - कछुआ प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "कोई मुझे नहीं देखेगा",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "एमराल्ड लकी कॉइन - क्रीपर प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "कठोर और चिपचिपा",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "एमराल्ड लकी कॉइन - स्लाइम प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "सुरक्षा के लिए भुगतान किया गया",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "एमराल्ड लकी कॉइन - आयरन गोलम प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "किंवदंती सच है",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "नेदराइट लकी कॉइन - एंड ड्रैगन प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "लकी पैसे",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "सभी कॉपर लकी कॉइन इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "कोई वजन महसूस नहीं होता",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "सभी आयरन लकी कॉइन इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "वो सूअर भाग्यशाली है",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "सभी गोल्ड लकी कॉइन इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "भाग्यशाली पीढ़ी",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "सभी एमराल्ड लकी कॉइन इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "एक आदमी की सेना",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "सभी नेदराइट लकी कॉइन इकट्ठा करें"
+
+}
