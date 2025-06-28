@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Moneta Fortunata di Rame con Gatto",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Moneta Fortunata di Rame con Pollo",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Moneta Fortunata di Rame con Pecora",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Moneta Fortunata di Rame con Golem di Ferro",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Moneta Fortunata di Rame con Lupo",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Moneta Fortunata di Rame con Zombie",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Moneta Fortunata di Rame con Delfino",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Moneta Fortunata di Rame con Cuore",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Moneta Fortunata di Ferro con Gatto",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Moneta Fortunata di Ferro con Pollo",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Moneta Fortunata di Ferro con Golem di Ferro",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Moneta Fortunata di Ferro con Pecora",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Moneta Fortunata di Ferro con Vex",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Moneta Fortunata d’Oro con Blaze",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Moneta Fortunata d’Oro con Ghast",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Moneta Fortunata d’Oro con Cubo di Magma",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Moneta Fortunata d’Oro con Piglin",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Moneta Fortunata d’Oro con Tartaruga",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Moneta Fortunata di Smeraldo con Creeper",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Moneta Fortunata di Smeraldo con Slime",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Moneta Fortunata di Smeraldo con Golem di Ferro",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Moneta Fortunata di Netherite con Drago dell'End",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Monete Fortunate",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Raccolte da giocatori di tutto il mondo",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "Ti chiama",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Ottieni la Moneta Fortunata di Rame con Gatto",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "È il mio Pollo Fortunato",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Ottieni la Moneta Fortunata di Rame con Pollo",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Ti tiene al caldo",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Ottieni la Moneta Fortunata di Rame con Pecora",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Un piccolo frammento di forza",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Ottieni la Moneta Fortunata di Rame con Golem di Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "Il miglior amico del giocatore",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Ottieni la Moneta Fortunata di Rame con Lupo",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Illumina la notte",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Ottieni la Moneta Fortunata di Rame con Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Nuotatore nato",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Ottieni la Moneta Fortunata di Rame con Delfino",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "Tienila vicino al cuore",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Ottieni la Moneta Fortunata di Rame con Cuore",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Andiamo insieme",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Ottieni la Moneta Fortunata di Ferro con Gatto",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Cadiamo insieme",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Ottieni la Moneta Fortunata di Ferro con Pollo",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Ne vale la pena",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Ottieni la Moneta Fortunata di Ferro con Golem di Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "È così morbida",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Ottieni la Moneta Fortunata di Ferro con Pecora",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Ora siamo amici",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Ottieni la Moneta Fortunata di Ferro con Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Sto solo bruciando",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Ottieni la Moneta Fortunata d’Oro con Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Membro del club",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Ottieni la Moneta Fortunata d’Oro con Piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Come un pallone gigante",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Ottieni la Moneta Fortunata d’Oro con Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Saltare tra le fiamme",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Ottieni la Moneta Fortunata d’Oro con Cubo di Magma",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Subacqueo professionista",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Ottieni la Moneta Fortunata d’Oro con Tartaruga",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "Non mi vedranno arrivare",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Ottieni la Moneta Fortunata di Smeraldo con Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Duro e appiccicoso",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Ottieni la Moneta Fortunata di Smeraldo con Slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Pagato per proteggere",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Ottieni la Moneta Fortunata di Smeraldo con Golem di Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "La leggenda è reale",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Ottieni la Moneta Fortunata di Netherite con Drago dell'End",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Centesimi Fortunati",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Raccogli tutte le Monete Fortunate di Rame",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Non sento il peso",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Raccogli tutte le Monete Fortunate di Ferro",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "Quel maiale è fortunato",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Raccogli tutte le Monete Fortunate d’Oro",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "Generazione fortunata",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Raccogli tutte le Monete Fortunate di Smeraldo",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "Un esercito da solo",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Raccogli tutte le Monete Fortunate di Netherite"
+
+}

@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Moneda de la Suerte de Gato de Cobre",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Moneda de la Suerte de Pollo de Cobre",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Moneda de la Suerte de Oveja de Cobre",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Moneda de la Suerte de Gólem de Hierro de Cobre",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Moneda de la Suerte de Lobo de Cobre",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Moneda de la Suerte de Zombi de Cobre",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Moneda de la Suerte de Delfín de Cobre",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Moneda de la Suerte de Corazón de Cobre",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Moneda de la Suerte de Gato de Hierro",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Moneda de la Suerte de Pollo de Hierro",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Moneda de la Suerte de Gólem de Hierro",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Moneda de la Suerte de Oveja de Hierro",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Moneda de la Suerte de Vex de Hierro",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Moneda de la Suerte de Blaze de Oro",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Moneda de la Suerte de Ghast de Oro",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Moneda de la Suerte de Cubo de Magma de Oro",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Moneda de la Suerte de Piglin de Oro",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Moneda de la Suerte de Tortuga de Oro",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Moneda de la Suerte de Creeper de Esmeralda",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Moneda de la Suerte de Slime de Esmeralda",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Moneda de la Suerte de Gólem de Hierro de Esmeralda",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Moneda de la Suerte de Dragón del End de Netherita",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Monedas de la Suerte",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Recolectadas por jugadores en todas partes",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "Te Llama",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Consigue una Moneda de la Suerte de Gato de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "Es Mi Pollo de la Suerte",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Consigue una Moneda de la Suerte de Pollo de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Te Mantiene Caliente",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Consigue una Moneda de la Suerte de Oveja de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Un Pequeño Fragmento de Fuerza",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Consigue una Moneda de la Suerte de Gólem de Hierro de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "El Mejor Amigo del Jugador",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Consigue una Moneda de la Suerte de Lobo de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Ilumina la Noche",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Consigue una Moneda de la Suerte de Zombi de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Nadador Nato",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Consigue una Moneda de la Suerte de Delfín de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "Llévala Cerca del Corazón",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Consigue una Moneda de la Suerte de Corazón de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Vamos Juntos",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Consigue una Moneda de la Suerte de Gato de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Caemos Juntos",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Consigue una Moneda de la Suerte de Pollo de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Vale la Pena",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Consigue una Moneda de la Suerte de Gólem de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "Es Tan Suave",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Consigue una Moneda de la Suerte de Oveja de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Ahora Somos Amigos",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Consigue una Moneda de la Suerte de Vex de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Simplemente Ardiendo",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Consigue una Moneda de la Suerte de Blaze de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Miembro del Club",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Consigue una Moneda de la Suerte de Piglin de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Como un Globo Gigante",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Consigue una Moneda de la Suerte de Ghast de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Saltando Entre el Fuego",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Consigue una Moneda de la Suerte de Cubo de Magma de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Buceador Profesional",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Consigue una Moneda de la Suerte de Tortuga de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "No Me Verán Venir",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Consigue una Moneda de la Suerte de Creeper de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Duro y Pegajoso",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Consigue una Moneda de la Suerte de Slime de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Pagado para Proteger",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Consigue una Moneda de la Suerte de Gólem de Hierro de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "La Leyenda es Real",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Consigue una Moneda de la Suerte de Dragón del End de Netherita",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Centavitos de la Suerte",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Consigue todas las Monedas de la Suerte de Cobre",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Sin Sentir el Peso",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Consigue todas las Monedas de la Suerte de Hierro",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "Ese Cerdo Tiene Suerte",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Consigue todas las Monedas de la Suerte de Oro",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "La Generación Suertuda",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Consigue todas las Monedas de la Suerte de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "Un Ejército de Uno",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Consigue todas las Monedas de la Suerte de Netherita"
+
+}

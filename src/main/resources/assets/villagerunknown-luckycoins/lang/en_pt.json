@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Copper Cat Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Copper Chicken Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Copper Sheep Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Copper Iron Golem Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Copper Wolf Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Copper Zombie Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Copper Dolphin Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Copper Heart Coin o' Fortune",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Iron Cat Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Iron Chicken Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Iron Iron Golem Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Iron Sheep Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Iron Vex Coin o' Fortune",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Gold Blaze Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Gold Ghast Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Gold Magma Cube Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Gold Piglin Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Gold Turtle Coin o' Fortune",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Emerald Creeper Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Emerald Slime Coin o' Fortune",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Emerald Iron Golem Coin o' Fortune",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Netherite Ender Dragon Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Lucky Coins",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Snagged by sailors far n' wide",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "She be callin' ye",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Snag a Copper Cat Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "Ain’t no chicken luckier",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Snag a Copper Chicken Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Keeps the sea chill off",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Snag a Copper Sheep Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Bit o’ strength in yer pouch",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Snag a Copper Iron Golem Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "A crewmate true",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Snag a Copper Wolf Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Brighter than a lantern",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Snag a Copper Zombie Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Born t’ swim",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Snag a Copper Dolphin Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "Keep it near yer ticker",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Snag a Copper Heart Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Together we sail",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Snag an Iron Cat Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Down we tumble",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Snag an Iron Chicken Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "It be worth its weight",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Snag an Iron Iron Golem Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "Soft as a siren's whisper",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Snag an Iron Sheep Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Now we be mates",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Snag an Iron Vex Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Blazin’ like me beard",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Snag a Gold Blaze Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Club o’ the cursed",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Snag a Gold Piglin Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Floats like a ghost balloon",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Snag a Gold Ghast Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Leap the flames, ye scallywag",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Snag a Gold Magma Cube Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Diver o’ deep seas",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Snag a Gold Turtle Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "Ye won't see me comin'",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Snag an Emerald Creeper Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Tough n' squishy like barnacle jam",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Snag an Emerald Slime Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Hired guard o’ the gangplank",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Snag an Emerald Iron Golem Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "The tale be true",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Snag a Netherite Ender Dragon Coin o' Fortune",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Bits o' Lucky Booty",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Gather all the Copper Lucky Coins",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "As light as me parrot",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Gather all the Iron Lucky Coins",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "That pig be blessed by Poseidon",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Gather all the Gold Lucky Coins",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "Born under a lucky moon",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Gather all the Emerald Lucky Coins",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "A one-man crew",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Gather all the Netherite Lucky Coins"
+
+}
