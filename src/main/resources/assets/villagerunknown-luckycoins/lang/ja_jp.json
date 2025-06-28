@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "銅のネコラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "銅のニワトリラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "銅のヒツジラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "銅のアイアンゴーレムラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "銅のオオカミラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "銅のゾンビラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "銅のイルカラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "銅のハートラッキーコイン",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "鉄のネコラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "鉄のニワトリラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "鉄のアイアンゴーレムラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "鉄のヒツジラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "鉄のヴェックスラッキーコイン",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "金のブレイズラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "金のガストラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "金のマグマキューブラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "金のピグリンラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "金のカメラッキーコイン",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "エメラルドのクリーパラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "エメラルドのスライムラッキーコイン",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "エメラルドのアイアンゴーレムラッキーコイン",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "ネザライトのエンダードラゴンラッキーコイン",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "ラッキーコイン",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "世界中のプレイヤーが収集しています",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "呼ばれている気がする",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "銅のネコラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "これが私のラッキーチキン",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "銅のニワトリラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "あたたかくしてくれる",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "銅のヒツジラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "少しの力",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "銅のアイアンゴーレムラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "プレイヤーの最良の友",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "銅のオオカミラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "夜を照らす",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "銅のゾンビラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "生まれつきのスイマー",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "銅のイルカラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "心に近づけて",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "銅のハートラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "一緒に行こう",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "鉄のネコラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "一緒に落ちる",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "鉄のニワトリラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "それだけの価値がある",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "鉄のアイアンゴーレムラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "すごくふわふわ",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "鉄のヒツジラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "今は友達だ",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "鉄のヴェックスラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "燃えているだけ",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "金のブレイズラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "クラブの一員",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "金のピグリンラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "大きな風船みたい",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "金のガストラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "炎の中を飛び跳ねる",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "金のマグマキューブラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "プロのダイバー",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "金のカメラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "見つかることはない",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "エメラルドのクリーパラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "かたくてネバネバ",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "エメラルドのスライムラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "守るのは有料です",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "エメラルドのアイアンゴーレムラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "伝説は本当だった",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "ネザライトのエンダードラゴンラッキーコインをゲットする",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "ラッキーペニー",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "すべての銅のラッキーコインを集める",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "重さを感じない",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "すべての鉄のラッキーコインを集める",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "そのブタはラッキーだ",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "すべての金のラッキーコインを集める",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "幸運の世代",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "すべてのエメラルドのラッキーコインを集める",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "一人の軍隊",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "すべてのネザライトのラッキーコインを集める"
+
+}

@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Pièce porte-bonheur en cuivre - Chat",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Pièce porte-bonheur en cuivre - Poule",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Pièce porte-bonheur en cuivre - Mouton",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Pièce porte-bonheur en cuivre - Golem de fer",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Pièce porte-bonheur en cuivre - Loup",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Pièce porte-bonheur en cuivre - Zombie",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Pièce porte-bonheur en cuivre - Dauphin",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Pièce porte-bonheur en cuivre - Cœur",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Pièce porte-bonheur en fer - Chat",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Pièce porte-bonheur en fer - Poule",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Pièce porte-bonheur en fer - Golem de fer",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Pièce porte-bonheur en fer - Mouton",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Pièce porte-bonheur en fer - Vex",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Pièce porte-bonheur en or - Blaze",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Pièce porte-bonheur en or - Ghast",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Pièce porte-bonheur en or - Cube de magma",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Pièce porte-bonheur en or - Piglin",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Pièce porte-bonheur en or - Tortue",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Pièce porte-bonheur en émeraude - Creeper",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Pièce porte-bonheur en émeraude - Slime",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Pièce porte-bonheur en émeraude - Golem de fer",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Pièce porte-bonheur en netherite - Dragon de l'End",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Pièces porte-bonheur",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Collectées par des joueurs du monde entier",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "Elle t'appelle",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Chat",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "C'est ma poule porte-bonheur",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Poule",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Elle te garde au chaud",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Mouton",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Un fragment de puissance",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Golem de fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "Le meilleur ami du joueur",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Loup",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Éclaire la nuit",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Nageur né",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Dauphin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "À garder près du cœur",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Obtiens la pièce porte-bonheur en cuivre - Cœur",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Ensemble pour toujours",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Obtiens la pièce porte-bonheur en fer - Chat",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Ensemble dans la chute",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Obtiens la pièce porte-bonheur en fer - Poule",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Ça en vaut la peine",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Obtiens la pièce porte-bonheur en fer - Golem de fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "C'est tout doux",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Obtiens la pièce porte-bonheur en fer - Mouton",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Nous sommes amis maintenant",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Obtiens la pièce porte-bonheur en fer - Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Juste en feu",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Obtiens la pièce porte-bonheur en or - Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Membre du club",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Obtiens la pièce porte-bonheur en or - Piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Comme un énorme ballon",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Obtiens la pièce porte-bonheur en or - Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Sauter à travers le feu",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Obtiens la pièce porte-bonheur en or - Cube de magma",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Plongeur professionnel",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Obtiens la pièce porte-bonheur en or - Tortue",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "Personne ne me verra venir",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Obtiens la pièce porte-bonheur en émeraude - Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Dur et collant",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Obtiens la pièce porte-bonheur en émeraude - Slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Protection payante",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Obtiens la pièce porte-bonheur en émeraude - Golem de fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "La légende est vraie",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Obtiens la pièce porte-bonheur en netherite - Dragon de l'End",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Petites pièces chanceuses",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Collecte toutes les pièces porte-bonheur en cuivre",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Aucun poids ressenti",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Collecte toutes les pièces porte-bonheur en fer",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "Ce cochon a de la chance",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Collecte toutes les pièces porte-bonheur en or",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "Génération chanceuse",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Collecte toutes les pièces porte-bonheur en émeraude",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "Une armée à lui tout seul",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Collecte toutes les pièces porte-bonheur en netherite"
+
+}

@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "מטבע מזל נחושת - חתול",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "מטבע מזל נחושת - תרנגולת",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "מטבע מזל נחושת - כבשה",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "מטבע מזל נחושת - גולם ברזל",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "מטבע מזל נחושת - זאב",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "מטבע מזל נחושת - זומבי",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "מטבע מזל נחושת - דולפין",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "מטבע מזל נחושת - לב",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "מטבע מזל ברזל - חתול",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "מטבע מזל ברזל - תרנגולת",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "מטבע מזל ברזל - גולם ברזל",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "מטבע מזל ברזל - כבשה",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "מטבע מזל ברזל - ווקס",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "מטבע מזל זהב - בלייז",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "מטבע מזל זהב - גסט",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "מטבע מזל זהב - מגמה קיוב",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "מטבע מזל זהב - פיגלין",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "מטבע מזל זהב - צב",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "מטבע מזל אזמרגד - קריפר",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "מטבע מזל אזמרגד - סליים",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "מטבע מזל אזמרגד - גולם ברזל",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "מטבע מזל נדרייט - דרקון האנד",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "מטבעות מזל",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "נאסף על ידי שחקנים מכל העולם",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "היא קוראת לך",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "השג את מטבע מזל נחושת - חתול",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "זה התרנגול מזל שלי",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "השג את מטבע מזל נחושת - תרנגולת",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "שומר עליך חם",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "השג את מטבע מזל נחושת - כבשה",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "חתיכת כוח קטנה",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "השג את מטבע מזל נחושת - גולם ברזל",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "החבר הכי טוב של השחקן",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "השג את מטבע מזל נחושת - זאב",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "מאיר את הלילה",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "השג את מטבע מזל נחושת - זומבי",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "שחיין טבעי",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "השג את מטבע מזל נחושת - דולפין",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "שמור קרוב ללב",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "השג את מטבע מזל נחושת - לב",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "ביחד",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "השג את מטבע מזל ברזל - חתול",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "נופלים יחד",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "השג את מטבע מזל ברזל - תרנגולת",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "שווה את זה",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "השג את מטבע מזל ברזל - גולם ברזל",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "רך כל כך",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "השג את מטבע מזל ברזל - כבשה",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "עכשיו אנחנו חברים",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "השג את מטבע מזל ברזל - ווקס",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "רק בוער",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "השג את מטבע מזל זהב - בלייז",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "חבר במועדון",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "השג את מטבע מזל זהב - פיגלין",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "כמו בלון ענק",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "השג את מטבע מזל זהב - גסט",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "קפיצה דרך האש",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "השג את מטבע מזל זהב - מגמה קיוב",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "צוללן מקצועי",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "השג את מטבע מזל זהב - צב",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "הם לא יראו אותי בא",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "השג את מטבע מזל אזמרגד - קריפר",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "קשה ודביק",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "השג את מטבע מזל אזמרגד - סליים",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "מוגן בתשלום",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "השג את מטבע מזל אזמרגד - גולם ברזל",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "האגדה אמיתית",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "השג את מטבע מזל נדרייט - דרקון האנד",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "מטבעות קטנים של מזל",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "אסוף את כל מטבעות המזל מנחושת",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "לא מרגיש משקל",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "אסוף את כל מטבעות המזל מברזל",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "החזיר הזה בר מזל",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "אסוף את כל מטבעות המזל מזהב",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "דור המזל",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "אסוף את כל מטבעות המזל מאזמרגד",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "צבא של אחד",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "אסוף את כל מטבעות המזל מנדרייט"
+
+}

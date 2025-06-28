@@ -1,0 +1,116 @@
+{
+
+  "text.autoconfig.villagerunknown-luckycoins.title": "VillagerUnknown's Lucky Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.lucky_copper_cat_coin": "Koppar Lyckomynt - Katt",
+  "item.villagerunknown-villagercoin.lucky_copper_chicken_coin": "Koppar Lyckomynt - Höna",
+  "item.villagerunknown-villagercoin.lucky_copper_sheep_coin": "Koppar Lyckomynt - Får",
+  "item.villagerunknown-villagercoin.lucky_copper_iron_golem_coin": "Koppar Lyckomynt - Järngolem",
+  "item.villagerunknown-villagercoin.lucky_copper_wolf_coin": "Koppar Lyckomynt - Varg",
+  "item.villagerunknown-villagercoin.lucky_copper_zombie_coin": "Koppar Lyckomynt - Zombie",
+  "item.villagerunknown-villagercoin.lucky_copper_dolphin_coin": "Koppar Lyckomynt - Delfin",
+  "item.villagerunknown-villagercoin.lucky_copper_heart_coin": "Koppar Lyckomynt - Hjärta",
+
+  "item.villagerunknown-villagercoin.lucky_iron_cat_coin": "Järn Lyckomynt - Katt",
+  "item.villagerunknown-villagercoin.lucky_iron_chicken_coin": "Järn Lyckomynt - Höna",
+  "item.villagerunknown-villagercoin.lucky_iron_golem_coin": "Järn Lyckomynt - Järngolem",
+  "item.villagerunknown-villagercoin.lucky_iron_sheep_coin": "Järn Lyckomynt - Får",
+  "item.villagerunknown-villagercoin.lucky_iron_vex_coin": "Järn Lyckomynt - Vex",
+
+  "item.villagerunknown-villagercoin.lucky_gold_blaze_coin": "Guld Lyckomynt - Blaze",
+  "item.villagerunknown-villagercoin.lucky_gold_ghast_coin": "Guld Lyckomynt - Ghast",
+  "item.villagerunknown-villagercoin.lucky_gold_magma_cube_coin": "Guld Lyckomynt - Magmakub",
+  "item.villagerunknown-villagercoin.lucky_gold_piglin_coin": "Guld Lyckomynt - Piglin",
+  "item.villagerunknown-villagercoin.lucky_gold_turtle_coin": "Guld Lyckomynt - Sköldpadda",
+
+  "item.villagerunknown-villagercoin.lucky_emerald_creeper_coin": "Smaragd Lyckomynt - Creeper",
+  "item.villagerunknown-villagercoin.lucky_emerald_slime_coin": "Smaragd Lyckomynt - Slime",
+  "item.villagerunknown-villagercoin.lucky_emerald_iron_golem_coin": "Smaragd Lyckomynt - Järngolem",
+
+  "item.villagerunknown-villagercoin.lucky_netherite_ender_dragon_coin": "Netherit Lyckomynt - Enderdrake",
+
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.title": "Lyckomynt",
+  "advancements.villagerunknown-villagercoin.lucky_coins.root.description": "Samlas av spelare över hela världen",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.title": "Den kallar på dig",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_cat_coin.description": "Få Koppar Lyckomynt - Katt",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.title": "Det är min lyckohöna",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_chicken_coin.description": "Få Koppar Lyckomynt - Höna",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.title": "Håller dig varm",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_sheep_coin.description": "Få Koppar Lyckomynt - Får",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.title": "Ett litet stycke styrka",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_iron_golem_coin.description": "Få Koppar Lyckomynt - Järngolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.title": "Spelarens bästa vän",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_wolf_coin.description": "Få Koppar Lyckomynt - Varg",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.title": "Ljusar upp natten",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_zombie_coin.description": "Få Koppar Lyckomynt - Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.title": "Född simmare",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_dolphin_coin.description": "Få Koppar Lyckomynt - Delfin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.title": "Håll nära hjärtat",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_copper_heart_coin.description": "Få Koppar Lyckomynt - Hjärta",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.title": "Vi går tillsammans",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_cat_coin.description": "Få Järn Lyckomynt - Katt",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.title": "Vi faller tillsammans",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_chicken_coin.description": "Få Järn Lyckomynt - Höna",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.title": "Det är värt det",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_golem_coin.description": "Få Järn Lyckomynt - Järngolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.title": "Så mjuk",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_sheep_coin.description": "Få Järn Lyckomynt - Får",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.title": "Nu är vi vänner",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_iron_vex_coin.description": "Få Järn Lyckomynt - Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.title": "Bara brinner",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_blaze_coin.description": "Få Guld Lyckomynt - Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.title": "Klubbmedlem",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_piglin_coin.description": "Få Guld Lyckomynt - Piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.title": "Som en jättelik ballong",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_ghast_coin.description": "Få Guld Lyckomynt - Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.title": "Hoppa genom eld",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_magma_cube_coin.description": "Få Guld Lyckomynt - Magmakub",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.title": "Professionell dykare",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_gold_turtle_coin.description": "Få Guld Lyckomynt - Sköldpadda",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.title": "De kommer inte se mig komma",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_creeper_coin.description": "Få Smaragd Lyckomynt - Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.title": "Hård och klibbig",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_slime_coin.description": "Få Smaragd Lyckomynt - Slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.title": "Skydd mot betalning",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_emerald_iron_golem_coin.description": "Få Smaragd Lyckomynt - Järngolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.title": "Legenden är sann",
+  "advancements.villagerunknown-villagercoin.pickup_lucky_netherite_ender_dragon_coin.description": "Få Netherit Lyckomynt - Enderdrake",
+
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.title": "Lyckoslantar",
+  "advancements.villagerunknown-villagercoin.lucky_copper_coins.description": "Samla alla Koppar Lyckomynt",
+
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.title": "Känner ingen vikt",
+  "advancements.villagerunknown-villagercoin.lucky_iron_coins.description": "Samla alla Järn Lyckomynt",
+
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.title": "Den grisen har tur",
+  "advancements.villagerunknown-villagercoin.lucky_gold_coins.description": "Samla alla Guld Lyckomynt",
+
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.title": "Den lyckliga generationen",
+  "advancements.villagerunknown-villagercoin.lucky_emerald_coins.description": "Samla alla Smaragd Lyckomynt",
+
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.title": "Enmansarmé",
+  "advancements.villagerunknown-villagercoin.lucky_netherite_coins.description": "Samla alla Netherit Lyckomynt"
+
+}
